@@ -1,0 +1,13 @@
+This is a simple implementation of a Naive Bayes classifier. The data that has been used is from http://openclassroom.stanford.edu .  (A compressed folder _is_ a part of the repo)
+The implementation details can be  found at : 
+http://rohitdholakia.com/blog/machine-learning/writing-your-own-naive-bayes-classifier/
+
+Please feel free to leave comments at rohit@rohitdholakia.com
+For building the dictionary , use :
+Dictionary.py 
+For training ,use :
+Training.py  
+For actual classification , use :
+spamNonspam.py 
+
+The arguments to be passed are specified in the code
